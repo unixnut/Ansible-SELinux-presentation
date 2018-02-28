@@ -11,11 +11,12 @@ This talk intends to show that manual configuration of SELinux policies is no lo
 
 ## Outline
 
-1. SELinux intro
-2. Detail of operation
-3. Policies
-4. Ansible roles
-5. Example
+1. Ansible recap
+2. SELinux intro
+3. Comedy sequence
+4. Detail of operation inc. Policies
+5. Ansible roles
+6. Example
 
 ## Presenter bio
 
